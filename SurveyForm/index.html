@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Survey form</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <h1 id="title">freeCodeCamp Survey Form</h1>
+    <p id="description">Thank you for taking the time to help us improve the platform</p>
+    <form id="survey-form">
+        <label id="name-label">Name <input type="text" id="name" placeholder="Enter your name" required/></label>
+
+        <label id="email-label">Email <input type="email" id="email" placeholder="Enter your Email"required/></label>
+
+        <label id="number-label">Age <input type="number" id="number" min="10" max="99" placeholder="Age" /></label>
+
+        <label>
+          Which option best describes your current role?
+          <select id="dropdown">
+              <option></option>
+              <option></option>
+          </select>
+        </label>
+        <p>
+          Would you recommend freeCodeCamp to a friend?
+          
+        </p>
+        <label>
+          <input type="radio" name="recommend" value="Definitely"/>
+          Definitely
+        </label>
+
+        <label>
+          <input type="radio" name="recommend" value="Maybe"/>
+          Maybe
+        </label>
+
+        <label>
+          <input type="radio" name="recommend" value="Not sure"/>
+          Not sure
+        </label>
+
+        <p>What would you like to see improved? (Check all that apply)</p>
+        <label>
+          <input type="checkbox" value="P" /> P
+        </label>
+        <label>
+          <input type="checkbox" value="K" /> K
+        </label>
+     <p> Any comments or suggestions?</p>
+     <label>
+       <textarea id="comment" placeholder="Enter your comment here ... "></textarea>
+     </label>
+
+     <input type="Submit" value="submit" id="submit"/>
+    </form>
+  </body>
+</html>
