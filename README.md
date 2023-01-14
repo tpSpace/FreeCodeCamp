@@ -13,4 +13,6 @@ Registration Form: https://tpspace.github.io/FreeCodeCamp/RegistrationForm/
 Survey Form: https://tpspace.github.io/FreeCodeCamp/SurveyForm/
 <br>
 Rothko patining: https://tpspace.github.io/FreeCodeCamp/RothkoPainting/
+<br>
+Photo gallery: https://tpspace.github.io/FreeCodeCamp/PhotoGallery/
 </p>
