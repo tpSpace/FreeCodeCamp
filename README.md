@@ -15,4 +15,6 @@ Survey Form: https://tpspace.github.io/FreeCodeCamp/SurveyForm/
 Rothko patining: https://tpspace.github.io/FreeCodeCamp/RothkoPainting/
 <br>
 Photo gallery: https://tpspace.github.io/FreeCodeCamp/PhotoGallery/
+<br>
+Nutrition label: https://tpspace.github.io/FreeCodeCamp/NutritionLabel/
 </p>
