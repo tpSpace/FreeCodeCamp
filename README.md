@@ -16,5 +16,8 @@ Rothko patining: https://tpspace.github.io/FreeCodeCamp/RothkoPainting/
 <br>
 Photo gallery: https://tpspace.github.io/FreeCodeCamp/PhotoGallery/
 <br>
+<<<<<<< HEAD
 Nutrition label: https://tpspace.github.io/FreeCodeCamp/NutritionLabel/
+=======
+>>>>>>> 8588a09fc30752e5ee18f3a23f30c49fff394322
 </p>
