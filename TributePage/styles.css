@@ -80,9 +80,7 @@
   blockquote {
     font-size: 1.6rem;
     font-style: italic;
-    
     margin: 0 auto 50px auto;
-    text-align: left;
   }
   blockquote > p {
     font-size: 1.6rem;
@@ -90,5 +88,4 @@
   }
   #reference {
     font-size: 1.6rem;
-    width: 100vw;
   }
