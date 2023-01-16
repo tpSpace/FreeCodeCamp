@@ -20,4 +20,6 @@ Nutrition label: https://tpspace.github.io/FreeCodeCamp/NutritionLabel/
 <br>
 Quiz: https://tpspace.github.io/FreeCodeCamp/Quiz/
 <br>
+Tribute Page: https://tpspace.github.io/FreeCodeCamp/TributePage/
+<br>
 </p>
