@@ -18,4 +18,6 @@ Photo gallery: https://tpspace.github.io/FreeCodeCamp/PhotoGallery/
 <br>
 Nutrition label: https://tpspace.github.io/FreeCodeCamp/NutritionLabel/
 <br>
+Quiz: https://tpspace.github.io/FreeCodeCamp/Quiz/
+<br>
 </p>
