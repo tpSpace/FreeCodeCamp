@@ -1,7 +1,8 @@
 * {
     box-sizing: border-box;
-    font-family: Arial,sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
     font-size: 10px;
+  
   }
   main {
     background-color: #eeeeee;
@@ -9,26 +10,28 @@
   }
   header {
     text-align: center;
+    margin-left: auto;
+    margin-right: auto;
   }
   h1 {
     font-family: Arial;
     font-size: 40px;
     letter-spacing: normal;
-    line-height: 60px;
+    line-height: 1rem;
+    padding-top: 60px;
   }
   #description {
-    font-size: 16px;
-    line-height: 24px;
+    font-size: 2rem;
+    line-height: 30px;
   }
   figure {
     text-align: center;
     background-color: #ffff;
     padding: 10px;
-    max-width: 90%;
   }
   figcaption {
     text-align: center;
-    font-size: 1.5rem;
+    font-size: 1.75rem;
     margin-top: 1rem;
   }
   #image {
@@ -39,15 +42,53 @@
     margin-left: auto;
     margin-right: auto;
   }
-  
-  
+#tribute-info  {
+    
+    margin: auto;
+    width: 50%;
+}
+    #headline  {
+        text-align: center;
+        font-size: 2rem;
+    }
+    #tribute-info > p {
+        font-size: 1.5rem;
+    }
+    #tribute-info > ul {
+        font-size: 1.5rem;
+        text-align: left;
+    }
+    #tribute-info > ul > li {
+        font-size: 1.5rem;
+        line-height: 3rem;
+    }
+    .year {
+        font-size: 1.5rem;
+        text-align: center;
+        font-weight: bold;
+    }
+    @media (max-width: 460px) {
+        #img-caption {
+          font-size: 1.4rem;
+        }
+    }
+      #tribute-link {
+        font-size: 1.6rem;
+        text-decoration: none;
+    
+    }
   blockquote {
-    font-size: 1.5rem;
+    font-size: 1.6rem;
     font-style: italic;
-    max-width: 545px;
+    
     margin: 0 auto 50px auto;
     text-align: left;
   }
   blockquote > p {
-    font-size: 1.5rem;
+    font-size: 1.6rem;
+    width: 100%;
+  }
+  #reference {
+    font-size: 1.6rem;
+    width: 100vw;
   }
