@@ -22,6 +22,6 @@ Quiz: https://tpspace.github.io/FreeCodeCamp/Quiz/
 <br>
 Tribute Page: https://tpspace.github.io/FreeCodeCamp/TributePage/
 <br>
-Tribute Page: https://tpspace.github.io/FreeCodeCamp/BalanceSheet/
+Balance Sheet: https://tpspace.github.io/FreeCodeCamp/BalanceSheet/
 <br>
 </p>
