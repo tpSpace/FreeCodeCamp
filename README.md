@@ -24,4 +24,6 @@ Tribute Page: https://tpspace.github.io/FreeCodeCamp/TributePage/
 <br>
 Balance Sheet: https://tpspace.github.io/FreeCodeCamp/BalanceSheet/
 <br>
+Picasso Painting: https://tpspace.github.io/FreeCodeCamp/PicassoPainting/
+<br>
 </p>
