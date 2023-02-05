@@ -30,4 +30,6 @@ Building A Piano: https://tpspace.github.io/FreeCodeCamp/BuildingAPiano/
 <br>
 Technical Documentation Page: https://tpspace.github.io/FreeCodeCamp/TechnicalDocumentationPage/
 <br>
+Building a City Skyline: https://tpspace.github.io/FreeCodeCamp/CitySkyline/
+<br>
 </p>
