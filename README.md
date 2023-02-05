@@ -28,4 +28,6 @@ Picasso Painting: https://tpspace.github.io/FreeCodeCamp/PicassoPainting/
 <br>
 Building A Piano: https://tpspace.github.io/FreeCodeCamp/BuildingAPiano/
 <br>
+Technical Documentation Page: https://tpspace.github.io/FreeCodeCamp/TechnicalDocumentationPage/
+<br>
 </p>

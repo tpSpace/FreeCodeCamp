@@ -1,0 +1,42 @@
+@media only screen and (max-width: 1000px) {
+  body {
+    /*  */
+    flex-direction: column;
+  }
+}
+* {
+    box-sizing: border-box;
+    font-family: 'Open Sans',Arial, sans-serif;
+    font-size: 16px;
+    margin: 0;
+}
+body {
+    background-color: #fff;
+    display: flex;
+    flex-direction: row;
+
+}
+#nav {
+    flex-grow: 2;
+    flex-basis: 200px;
+}
+#main-doc {
+    flex-grow: 5;
+    flex-basis: 500px;
+    padding: 10px;
+}
+
+
+code {
+    background-color: #f2f2f2;
+    display: block;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+    margin: 10px 0;
+    padding: 10px;
+}
+header:not(#navbar) {
+    padding: 10px;
+    font-size: 24px;
+    font-weight: 600;
+}
