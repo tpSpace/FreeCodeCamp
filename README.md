@@ -32,4 +32,6 @@ Technical Documentation Page: https://tpspace.github.io/FreeCodeCamp/TechnicalDo
 <br>
 Building a City Skyline: https://tpspace.github.io/FreeCodeCamp/CitySkyline/
 <br>
+Building a City Skyline: https://tpspace.github.io/FreeCodeCamp/BuildingAMagazine/
+<br>
 </p>
