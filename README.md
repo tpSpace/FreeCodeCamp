@@ -32,6 +32,8 @@ Technical Documentation Page: https://tpspace.github.io/FreeCodeCamp/TechnicalDo
 <br>
 Building a City Skyline: https://tpspace.github.io/FreeCodeCamp/CitySkyline/
 <br>
-Building a City Skyline: https://tpspace.github.io/FreeCodeCamp/BuildingAMagazine/
+Building a Magazine: https://tpspace.github.io/FreeCodeCamp/BuildingAMagazine/
+<br>
+Ferris Wheel: https://tpspace.github.io/FreeCodeCamp/FerrisWheel/
 <br>
 </p>
