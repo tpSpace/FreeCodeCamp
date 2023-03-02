@@ -36,6 +36,6 @@ Building a Magazine: https://tpspace.github.io/FreeCodeCamp/BuildingAMagazine/
 <br>
 Ferris Wheel: https://tpspace.github.io/FreeCodeCamp/FerrisWheel/
 <br>
-Building a Penguin Skyline: https://tpspace.github.io/FreeCodeCamp/BuildingAPenguin/
+Building a Penguin: https://tpspace.github.io/FreeCodeCamp/BuildingAPenguin/
 <br>
 </p>
